@@ -1,1 +1,13 @@
-
+[
+  {
+    "id": "gamefixer-lua",
+    "name": "GameFixer (Lua)",
+    "description": "Advanced game settings editor for SAMP. Includes FPS boost and visual fixes. Unpacks directly into MoonLoader.",
+    "image": "https://i.ibb.co/zV1kDWgc/image.png",
+    "tag": "ASI / Lua",
+    "download": "https://download2278.mediafire.com/0ot7grnwgrpgP-mB2gjRHWFpeDTgwbYm_GxX8zvTniU6X0kf82cfByKMfBRHr-k8YUBn_AiafDMMhdfimYOz7Z6BZWF157wV_aoikD7OzbDO0i1MHCPr_IuEanyT0wHEy2tcQV8Ymixs9zHeEdyvRMnJ2EmoShYJsavK7Qi9BpM/0ohe74pbjmu9udc/GameFixer.Lua+English+version.rar",
+    "installPath": "moonloader",
+    "isRar": true,
+    "stripTopLevel": true
+  }
+]
