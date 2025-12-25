@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Sensitivity Fixer",
+    "badge": "ASI / Lua Mod",
+    "color": "blue",
+    "description": "Fixes X/Y axis sensitivity issues. <br><span class=\"text-xs text-slate-500\">*Requires MoonLoader.</span>",
+    "image": "https://i.ibb.co/bMnb7V9F/image.png",
+    "action": "confirmSensifix",
+    "btnIcon": "download",
+    "btnText": "Install Sensifix"
+  },
+  {
+    "title": "MoonLoader Repair",
+    "badge": "Component Fix",
+    "color": "amber",
+    "description": "Deletes 'moonloader' folder and reinstalls the official version.",
+    "image": "https://i.ibb.co/rRpyFRzP/images.png",
+    "action": "confirmFixMoonloader",
+    "btnIcon": "wrench",
+    "btnText": "Fix MoonLoader",
+    "warning": "Warning: Back up personal scripts before running."
+  },
+  {
+    "title": "Faithful Weapons Pack",
+    "badge": "HD Models",
+    "color": "emerald",
+    "description": "The Faithful Weapons Pack completely replaces all weapons in the game with HD quality weapons. Features 2K textures and new sounds.",
+    "image": "https://i.ibb.co/bMxP4H5w/faithful-weapons-pack-2-0-hd-kachestvo-1641553466-304222.webp",
+    "action": "confirmFaithfulWeapons",
+    "btnIcon": "crosshair",
+    "btnText": "Install Pack"
+  },
+  {
+    "title": "Proper Characters HD",
+    "badge": "HD Skins",
+    "color": "purple",
+    "description": "Replaces low-resolution character models with sharper, detailed textures, offering a 'remastered' look while preserving the original art style.",
+    "image": "https://i.ibb.co/Sw1xtKWz/gta-sa-mod-proper-peds-characters-retex-hd-npcs-remaster-texture-upscale-ai-remini-1-1-500x508.jpg",
+    "action": "confirmProperCharacters",
+    "btnIcon": "users",
+    "btnText": "Install Pack"
+  }
+]
