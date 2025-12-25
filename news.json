@@ -1,0 +1,26 @@
+[
+  {
+    "tag": "Event",
+    "date": "Oct 26",
+    "title": "GLOBAL PHOTO CONTEST",
+    "desc": "Show where you’re from! Contest runs until Nov 26. Win epic prizes by showing your country, style, and creativity.",
+    "image": "https://i.imgur.com/tcvbkeq.png",
+    "body": "<p class=\"text-lg font-semibold text-white mb-2\">🎉 GLOBAL PHOTO CONTEST BY EUROPA ROLE PLAY 🌍</p><p class=\"mb-4 text-slate-300\">Show where you’re from and become part of the international Europa RP community!</p><div class=\"bg-blue-900/20 border-l-4 border-blue-500 p-4 mb-4 rounded-r\"><p class=\"font-bold text-blue-200\">📅 Contest Schedule</p><p class=\"text-blue-100\">Starts: October 26</p><p class=\"text-blue-100\">Ends: November 26</p></div><p class=\"mb-4 text-slate-300\">Don’t miss your chance to shine and win epic prizes! ✨<br>Show your country, style, and creativity! Europa RP unites players from all around the world 🌐</p><div class=\"mt-6 p-4 bg-slate-800/50 rounded-lg border border-slate-700 text-sm\"><p class=\"mb-1\"><strong>More Info on Discord:</strong> <a href=\"http://discord.gg/europa-roleplay\" class=\"text-blue-400 hover:underline\">discord.gg/europa-roleplay</a></p><p><strong>Website:</strong> <a href=\"https://europa-rp.com/?protect_push=1\" class=\"text-blue-400 hover:underline\">europa-rp.com</a></p></div>"
+  },
+  {
+    "tag": "Update",
+    "date": "Oct 22",
+    "title": "Hospital System & Gym Update",
+    "desc": "Replenish health at hospitals after being wounded, rent scooters at spawn, and upgrade fighting styles.",
+    "image": "https://i.imgur.com/CkUcTEh.png",
+    "body": "<p class=\"mb-4 text-slate-200\">Dear Europa Role Play Players! ✨</p><ul class=\"list-disc list-inside space-y-2 mb-6 text-slate-300\"><li>After being wounded, you will appear in the hospital where you can replenish your health. 🚑</li><li>Added scooter rental pickup at spawn and near hospitals. 🛵</li><li>Fighting style upgrade skills have been added to the gym (<strong>/mystyle</strong>) 🥊</li></ul><p class=\"mb-4 text-slate-300\">Thanks for playing in our server and being part of our community ❤️<br>The update will be available today at 00:00 🚀</p>"
+  },
+  {
+    "tag": "Community",
+    "date": "Ongoing",
+    "title": "Europa RP Unites the World",
+    "desc": "Join our Discord to connect with players from all around the globe. We unite players from every country! 🇺🇦🇺🇸🇩🇪🇫🇷",
+    "image": "https://i.ibb.co/Zpy1Nh5D/p6.jpg",
+    "body": "<p class=\"mb-4 text-slate-300\">Europa RP is more than just a server; it's a global community.</p><p class=\"mb-4 text-slate-300\">We pride ourselves on uniting players from all corners of the world. Whether you are from Europe, America, or Asia, you will find a home here.</p><p class=\"mb-6 text-slate-300\">Join our Discord today to meet new friends, find a faction, and start your story.</p><div class=\"flex justify-center\"><a href=\"http://discord.gg/europa-roleplay\" class=\"bg-[#5865F2] hover:bg-[#4752C4] text-white px-6 py-2 rounded-lg font-bold transition-colorsjf flex items-center gap-2 shadow-lg shadow-indigo-900/20\"><i data-lucide=\"message-circle\" class=\"w-5 h-5\"></i> Join Discord</a></div>"
+  }
+]
