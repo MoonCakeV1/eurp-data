@@ -1,4 +1,4 @@
 {
-  "allowed": true,
-  "message": "Launcher is currently disabled for maintenance. Please check back later."
+  "allowed": false,
+  "message": "This version of the launcher is now disabled due to major issues, please get the new version."
 }
