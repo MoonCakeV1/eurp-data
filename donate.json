@@ -1,0 +1,17 @@
+{
+  "vehicles": [
+    {
+      "name": "Mclaren Senna GTR",
+      "speed": "200 km/h",
+      "nitro": "Yes",
+      "price": "15$",
+      "image": "https://i.imgur.com/8Q9Z8Zt.png" 
+    }
+  ],
+  "points": [
+    {
+      "title": "Donation Points",
+      "status": "Soon!"
+    }
+  ]
+}
