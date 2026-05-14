@@ -1,142 +1,42 @@
-
-  {
-    tag: "Announcement",
-    date: "May 12",
-    title: "Presidential Elections Begin on Europa RP",
-    desc: "The first presidential elections of the new Europa RP era are here. Candidates can apply starting May 13.",
-    image: "https://i.imgur.com/tcvbkeq.png",
-    body: `
-      <p class="text-lg font-semibold text-white mb-2">🗳️ PRESIDENTIAL ELECTIONS ON EUROPA RP</p>
-
-      <p class="mb-4 text-slate-300">
-        A new chapter begins in Europa Roleplay as the community prepares to elect its very first President after the fresh server restart.
-      </p>
-
-      <div class="bg-indigo-900/20 border-l-4 border-indigo-500 p-4 mb-4 rounded-r">
-        <p class="font-bold text-indigo-200">📅 Election Stages</p>
-        <p class="text-indigo-100">Stage 1: Candidate applications open on May 13 at 12:00 server time.</p>
-        <p class="text-indigo-100">Stage 2: Candidates may promote themselves through RP events and SAN News.</p>
-        <p class="text-indigo-100">Stage 3: Voting begins on May 15 at 16:00 server time.</p>
-      </div>
-
-      <p class="mb-4 text-slate-300">
-        To become a candidate, players must:
-      </p>
-
-      <ul class="list-disc list-inside text-slate-300 space-y-2 mb-6">
-        <li>Have a valid RP nickname (Name_Surname)</li>
-        <li>Reach level 10 or above</li>
-        <li>Have no active warnings</li>
-        <li>Pay 100 GOLD Dollars to register</li>
-      </ul>
-
-      <p class="mb-4 text-slate-300">
-        Every verified player level 2 or above will have the right to vote at City Hall.
-      </p>
-
-      <p class="mb-6 text-slate-300">
-        The winner will officially become the first President of Europa RP based on the popular vote results announced at 19:00 server time.
-      </p>
-
-      <div class="bg-slate-800/50 border border-slate-700 rounded-lg p-5 text-center">
-        <h3 class="text-xl font-bold text-white mb-2">
-          ⚖️ Shape the Future of Europa RP
-        </h3>
-
-        <p class="text-slate-300">
-          Leadership, politics, and roleplay now enter a new era.
-        </p>
-
-        <p class="text-indigo-300 font-bold mt-2">
-          EUROPA ROLEPLAY
-        </p>
-      </div>
-    `
-  },
-
-  {
-    tag: "Announcements",
-    date: "May 7",
-    title: "Server Online & House Login Bug Fixed",
-    desc: "The server is back online and the house login issue has been resolved.",
-    image: "https://i.imgur.com/CkUcTEh.png",
-    body: `
-      <p class="mb-4 text-slate-300">
-        Greetings players,
-      </p>
-
-      <p class="mb-4 text-slate-300">
-        The server is now officially back online and available for everyone to join.
-      </p>
-
-      <div class="bg-green-900/20 border border-green-500/40 rounded-lg p-4 mb-6">
-        <p class="text-green-200 font-semibold">
-          ✅ Fixed Issue
-        </p>
-
-        <p class="text-slate-300 mt-2">
-          House login bug has been successfully fixed and all systems are operating normally again.
-        </p>
-      </div>
-
-      <p class="text-slate-300">
-        Thank you for your patience and continued support ❤️
-      </p>
-    `
-  },
-
-  {
-    tag: "Rules Update",
-    date: "May 1",
-    title: "Server Rules & Punishments Updated",
-    desc: "Several server rules and punishments were adjusted to better suit the new environment after reset.",
-    image: "https://i.ibb.co/qFC780fP/file-00000000356471f4b276ac46392761f1.webp",
-    body: `
-      <p class="mb-4 text-slate-300">
-        The server rules have officially been updated to match the new environment after the reset.
-      </p>
-
-      <div class="space-y-4">
-
-        <div class="bg-slate-800/50 border border-slate-700 rounded-lg p-4">
-          <h3 class="text-white font-bold mb-2">
-            ⚖️ Violations & Punishments
-          </h3>
-
-          <p class="text-slate-300">
-            Manual Slow C-Bug is now allowed. However, Fast C-Bug remains prohibited.
-          </p>
-
-          <p class="text-slate-400 mt-2">
-            Several punishments have also been reduced.
-          </p>
-        </div>
-
-        <div class="bg-slate-800/50 border border-slate-700 rounded-lg p-4">
-          <h3 class="text-white font-bold mb-2">
-            👑 Leaders Guidelines
-          </h3>
-
-          <p class="text-slate-300">
-            Leadership requirements and selling rules were updated.
-          </p>
-        </div>
-
-        <div class="bg-slate-800/50 border border-slate-700 rounded-lg p-4">
-          <h3 class="text-white font-bold mb-2">
-            🎭 Roleplay Guidelines
-          </h3>
-
-          <p class="text-slate-300">
-            Various roleplay rules were revised to match the updated punishment system.
-          </p>
-        </div>
-
-      </div>
-
-      <p class="mt-6 text-slate-400 italic">
-        Ignorance of the rules does not exempt any player from responsibility.
-      </p>
-    `
-  }
-
+[
+{
+"tag": "Announcements",
+"date": "67 May",
+"title": "Jarn is gay ROLEPLAY 2026",
+"desc": "As the year comes to an end, the world slows down under the quiet glow of winter lights. A moment when the old naturally gives way to the new.",
+"image": "https://i.ibb.co/qFC780fP/file-00000000356471f4b276ac46392761f1.webp",
+"body": "<p class="mb-4 text-slate-300">As the year comes to an end, the world slows down under the quiet glow of winter lights, allowing us to see more than usual. In moments like these, it becomes especially clear that nothing happens by chance: every decision, every step, every presence becomes part of a greater flow.<p class="mb-4 text-slate-300">Europa Roleplay is a space where stories weave into a single pattern, where attention brings reality to life, and a chosen role begins to respond in return.<p class="mb-4 text-slate-300">The New Year is not just a change of numbers — it is a gentle reboot. A moment when the old naturally gives way to the new, and accumulated experience becomes the foundation of the next cycle. We enter it with renewed energy ⚡, a more refined atmosphere 🌫️, a stable core ⚓, and even deeper interaction 🎭.<p class="mb-4 text-slate-300">The world will feel brighter and more precise, and coincidences — strikingly timely, as if everything has long been arranged, revealing itself only to those ready to see.<p class="mb-6 text-slate-300">Christmas light does not argue with the darkness and needs no explanation — it simply fills the space with warmth 🕯️, reminding us of calm, inner balance ☯, and the simple things that truly matter. May the new year bring you clear paths 🛤️, conscious choices 🧠, and people beside you with whom even silence feels right.<div class="bg-indigo-900/30 border border-indigo-500/50 rounded-lg p-6 text-center shadow-lg"><p class="text-slate-300 mb-2">Thank you for remaining a part of Europa Roleplay, for creating this world and filling it with meaning.<h3 class="text-xl font-bold text-white mb-1">Happy New Year & Merry Christmas 🎄<p class="text-indigo-200 font-bold tracking-wider mb-2">EUROPA ROLEPLAY<p class="text-slate-400 italic text-sm">Reality is written by those who play."
+},
+{
+"tag": "Event",
+"date": "May 12",
+"title": "Presidential Elections 2026",
+"desc": "A new era begins! Cast your vote or run for office to become the first President of Europa RP.",
+"image": "https://i.ibb.co/qFC780fP/file-00000000356471f4b276ac46392761f1.webp",
+"body": "<p class="mb-4 text-slate-300">We are thrilled to announce the start of the first Presidential Elections in our new era. This is your chance to lead the community and shape the political landscape of Europa RP.<div class="bg-indigo-900/40 border border-indigo-500/50 rounded-lg p-4 mb-4"><p class="text-white font-bold">📅 Election Schedule:<ul class="list-disc list-inside text-slate-300">May 13: Candidate Registration (via Support)May 14: Campaigning & AdvertisingMay 15: Official Voting at City Hall<p class="mb-4 text-slate-300">To run for President, you must be Level 10+, have a clean record, and pay the $100 Gold entry fee. Voting is open to all Verified players Level 2 and above.<p class="text-slate-400 italic">Results will be announced on May 15th at 19:00 server time."
+},
+{
+"tag": "Update",
+"date": "May 06",
+"title": "Anti-Corruption: Real Estate Rules",
+"desc": "Ensuring a fair housing market: Administrators are now prohibited from occupying houses that players wish to purchase.",
+"image": "https://i.imgur.com/CkUcTEh.png",
+"body": "<p class="mb-4 text-slate-300">To maintain a fair environment for our player base, the management has established a strict anti-corruption rule regarding real estate ownership.<div class="bg-red-900/20 border-l-4 border-red-500 p-4 mb-4"><p class="text-slate-200">Administrators are prohibited from occupying houses that players wish to purchase.<p class="mb-4 text-slate-300">If you find an admin occupying a property you wish to buy, you have the official right to file a complaint. Valid complaints will result in the house being freed for player purchase immediately. Admins are here to support you, not compete for property!"
+},
+{
+"tag": "Community",
+"date": "May 04",
+"title": "Language Roles Implemented",
+"desc": "Enhancing communication across our global community with new dedicated language channels and roles.",
+"image": "https://i.ibb.co/Zpy1Nh5D/p6.jpg",
+"body": "<p class="mb-4 text-slate-300">Following the recent community vote, we have officially implemented Language Roles to help reduce conflicts and improve communication within our Discord.<p class="mb-4 text-slate-300">Players can now select roles for languages including Arabic, Hindi, Turkish, Indonesian, Ukrainian, German, and more. You will be able to read all chats but write specifically in your designated language channel.<p class="font-semibold text-white">Note: You can update your language role every 30 days. React in the Discord server to claim yours!"
+},
+{
+"tag": "Update",
+"date": "May 02",
+"title": "Rules & Leadership Update",
+"desc": "New staff appointments and updated server regulations regarding violations and punishments.",
+"image": "https://i.imgur.com/tcvbkeq.png",
+"body": "<p class="mb-4 text-slate-300">The server environment continues to evolve. We've updated our rulebook to better suit the post-reset gameplay, including changes to C-Bug regulations and punishment severity.<ul class="list-disc list-inside space-y-2 mb-4 text-slate-300">Director: Congratulations to Farawla Fruity on the promotion.Chief Administrator: Welcome HaDy ZonKa to the team.Rule Change: Manual Slow C-Bug is no longer prohibited.Punishments: Many penalties have been decreased to better fit current playstyles.<p class="text-slate-400">Please review the full rules in Discord to stay compliant."
+}
+]
