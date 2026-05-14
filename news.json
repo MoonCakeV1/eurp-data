@@ -1,5 +1,4 @@
-<script>
-const newsData = [
+
   {
     tag: "Announcement",
     date: "May 12",
@@ -140,5 +139,4 @@ const newsData = [
       </p>
     `
   }
-];
-</script>
+
