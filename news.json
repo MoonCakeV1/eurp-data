@@ -1,5 +1,13 @@
 [
   {
+    "tag": "Event",
+    "date": "Jun 4th",
+    "title": "TEAM DEATHMATCH EVENT",
+    "desc": "4 teams, 3v3 rounds, one winner. Deagle & M4 only. 150 GB prize pool split among the champions.",
+    "image": "https://i.ibb.co/JLghNzN/Screenshot-552.png",
+    "body": "<p class=\"mb-4 text-slate-200\">Get ready for an intense and thrilling battle between teams. Each team consists of <strong>3 members</strong>. Only the sharpest skills will help you survive in this Deathmatch.</p><h3 class=\"text-white font-bold mb-2\">🔴 Event Format</h3><p class=\"mb-4 text-slate-300\">4 Teams will fight in rounds (3v3). The 2 winning teams from the 1st round (semi-finals) will face each other in the final round. The winner of the final will receive the prize. 🏆</p><h3 class=\"text-white font-bold mb-2\">💰 Prize Pool</h3><ul class=\"list-disc list-inside space-y-1 mb-4 text-slate-300 text-sm\"><li>🥇 1st Place: <strong>150 GB</strong> (50 GB each member)</li><li>🔫 Weapons: Deagle and M4</li></ul><h3 class=\"text-white font-bold mb-2\">📜 Rules</h3><ul class=\"list-disc list-inside space-y-1 mb-4 text-slate-300 text-sm\"><li>No leaving the arena once the match starts.</li><li>No using any other weapons or hacks — immediate disqualification.</li><li>Medkits &amp; drugs are <strong>not allowed</strong> for healing during the event.</li><li>Fight fair and respect the event staff.</li><li>Mask is not allowed during the fight.</li><li>All server rules apply.</li></ul><p class=\"mb-4 text-slate-300 text-sm italic\">Breaking any of these rules will lead to your team's disqualification and punishment accordingly.</p><h3 class=\"text-white font-bold mb-2\">📥 How to Join</h3><p class=\"mb-4 text-slate-300\">Get your best players and <strong>DM Nrg_Aguilar</strong> with the names of your 3 team members before slots are full. Only <strong>4 teams</strong> will be accepted — first come, first served.</p><div class=\"bg-indigo-900/30 border border-indigo-500/50 rounded-lg p-4 shadow-lg\"><p class=\"text-slate-300 text-sm\">📅 <strong>Date:</strong> June 4th, 2026</p><p class=\"text-slate-300 text-sm\">⏳ <strong>Start Time:</strong> To be announced</p><p class=\"text-white font-bold mt-2 text-center\">Don't be late — the battle will be quick and deadly! ⚡</p></div>"
+  },
+  {
     "tag": "Major Update",
     "date": "May 24th",
     "title": "SERVER MAJOR UPDATE — V2.2.0",
