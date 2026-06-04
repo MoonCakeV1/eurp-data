@@ -1,5 +1,13 @@
 [
   {
+  "tag": "Event",
+  "date": "Jun 1–7",
+  "title": "MEDIA EVENT — SERVER SHOWCASE CHALLENGE",
+  "desc": "Create a high-quality showcase video of the server and compete for massive rewards. Best videos selected by the Media Team.",
+  "image": "https://i.ibb.co/VY1S0rPn/image.png",
+  "body": "<p class=\"mb-4 text-slate-200\">The Media Department is excited to announce a new content creation event for all creators! This is your chance to showcase the server, highlight its best features, and compete for huge rewards.</p><h3 class=\"text-white font-bold mb-2\">📹 Event Task</h3><p class=\"mb-2 text-slate-300\">Create a high-quality showcase video of the server. Your video must:</p><ul class=\"list-disc list-inside space-y-1 mb-4 text-slate-300 text-sm\"><li>Be at least <strong>3 minutes long</strong></li><li>Be uploaded in <strong>HD quality</strong></li><li>Showcase the server's major updates, features, systems, and gameplay</li><li>Be engaging, informative, and well-edited</li><li>Include a thumbnail and follow all media requirements</li></ul><h3 class=\"text-white font-bold mb-2\">🏆 Rewards</h3><ul class=\"list-disc list-inside space-y-1 mb-4 text-slate-300 text-sm\"><li>🥇 1st Place: <strong>3000 DP</strong></li><li>🥈 2nd Place: <strong>2000 DP</strong></li></ul><p class=\"mb-4 text-slate-300 text-sm\">The best and most well-made videos will be selected by the Media Team.</p><h3 class=\"text-white font-bold mb-2\">📌 How to Participate</h3><ol class=\"list-decimal list-inside space-y-1 mb-4 text-slate-300 text-sm\"><li>Create your showcase video</li><li>Upload it to YouTube</li><li>Open a Media Ticket in the Media Discord</li><li>Submit your video link for review</li></ol><div class=\"bg-indigo-900/30 border border-indigo-500/50 rounded-lg p-4 shadow-lg\"><p class=\"text-slate-300 text-sm\">📅 <strong>Start:</strong> June 1st &nbsp;|&nbsp; <strong>End:</strong> June 7th</p><p class=\"text-slate-300 text-sm mt-1\">This is a great opportunity to promote the server, attract new players, and earn massive rewards.</p><p class=\"text-white font-bold mt-2 text-center\">Good luck to all participants! 🎬</p></div>"
+  },
+  {
     "tag": "Event",
     "date": "Jun 4th",
     "title": "TEAM DEATHMATCH EVENT",
