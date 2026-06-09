@@ -4,15 +4,5 @@
     "seller": "MoonCake_Par",
     "phone": "1234567",
     "description": "Selling time with [item]"
-  },
-  {
-    "type": "vip",
-    "skinId": 123,
-    "seller": "MoonCake",
-    "phone": "50686",
-    "description": "hi",
-    "addedBy": "vendroxxv",
-    "addedAt": 1780998579021,
-    "expiresAt": 1781603379021
   }
 ]
